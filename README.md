@@ -1,6 +1,6 @@
 # React Projects
 
-Welcome to the repository containing a variety of projects and exercises built using the React library. Each folder in this repository represents a standalone project or an educational module designed to deepen your knowledge and skills in working with React.
+Welcome to the repository containing a variety of projects and exercises built using the React library. Each folder in this repository represents a standalone project or an educational module designed to deepen your knowledge and skills in working with React. These projects were created as part of my learning journey through a course on Udemy.
 
 ## Repository Structure
 
@@ -19,3 +19,7 @@ Welcome to the repository containing a variety of projects and exercises built u
 - **sideeffect**: Managing side effects in React components using hooks like `useEffect`.
 - **tic-tac-toe**: A Tic-Tac-Toe game built in React, demonstrating the basics of interactivity and state management.
 - **vintage shop**: A vintage clothing shop simulation, featuring API integration and shopping cart management.
+
+![image](https://github.com/user-attachments/assets/fd23d18a-8e2d-4647-8a9f-cb5ff1997f1a)
+![image](https://github.com/user-attachments/assets/01af4a05-09d1-4094-a9e6-34ea9a6845ba)
+![image](https://github.com/user-attachments/assets/e7343c4c-4dfd-4119-89a3-a05d3998b03b)
